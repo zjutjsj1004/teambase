@@ -15,3 +15,6 @@
 Cocos2dx-js Demo：（kbengine_cocos2d_js_demo：https://github.com/kbengine/kbengine_cocos2d_js_demo）
 源码地址：https://github.com/kbengine/kbengine_cocos2d_js_demo/releases/latest
 源码运行参考：http://my.oschina.net/u/1769474/blog/412265（kbengine_cocos2d_js_demo主线中的readme也有步骤，此文章是参考readme的）
+
+可能需要的软件：
+1、MySQL-Front
